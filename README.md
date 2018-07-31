@@ -80,20 +80,3 @@ XMLTree: XML Toolbox For MATLAB (v2.0)
 
  Please refer to the file "LICENSE" for the terms.
 
- -------------------------------------------------------------------------------
- MATLAB is a Registered Trademark of The Mathworks, Inc.
- 
- Copyright (C) 2002-2015 Guillaume Flandin <Guillaume@artefact.tk>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
-
